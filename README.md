@@ -25,3 +25,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 No more exams will be held on this course. If you wish to complete Introduction to Programming and the Advanced Course in Programming for credits, see [Python Programming MOOC](https://programming-23.mooc.fi/).
 
 You can get a certificate for each course (Java Programming I & Java Programming II seperately) from here: [https://www.mooc.fi/en/profile/completions](https://www.mooc.fi/en/profile/completions).
+
+## Certificate
+
+![](https://github.com/luizclsoares/mooc-java-programming-i/blob/main/certificate-java-programming-i.png)
